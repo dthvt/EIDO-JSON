@@ -648,7 +648,7 @@ components:
         - K
         - L
         - M
-        - N
+        - 'N'
         - P
         - Q
         - R
@@ -743,8 +743,8 @@ components:
       enum:
         - B
         - E
-        - N
-        - Y
+        - 'N'
+        - 'Y'
     aamva_d20BrandDamagePercentageCategoryCodeType:
       type: object
       title: 'aamva_d20:BrandDamagePercentageCategoryCodeType'
@@ -1044,7 +1044,7 @@ components:
         - K
         - L
         - M
-        - N
+        - 'N'
         - O
         - P
         - V
@@ -1073,7 +1073,7 @@ components:
         the operation of specified kinds of vehicles carrying specified loads.
       enum:
         - L
-        - N
+        - 'N'
         - O
         - P
         - S
@@ -1234,7 +1234,7 @@ components:
         - K
         - L
         - M
-        - N
+        - 'N'
         - O
         - P
         - V
@@ -1265,7 +1265,7 @@ components:
       enum:
         - H
         - L
-        - N
+        - 'N'
         - O
         - P
         - S
